@@ -1,10 +1,6 @@
 # Spaced Repetition Workload Simulation
 
-This project simulates the expected workload in a spaced repetition system based on different desired retention rates (DR). The simulation helps understand the trade-off between retention rate and total workload in spaced repetition.
-
-## Overview
-
-The simulator is based on the FSRS-6 algorithm.
+This project simulates the expected workload in a spaced repetition system based on different desired retention rates (DR). The simulation helps understand the trade-off between retention rate and total workload in spaced repetition. The simulator is based on the [FSRS-6](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm#fsrs-6) algorithm.
 
 ## Workload Estimation
 
