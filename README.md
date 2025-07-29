@@ -68,3 +68,5 @@ Pros:
 
 Cons:
 - Hard to implement
+
+For details, please see: [Dynamic Programming‐based Workload Estimator · open-spaced-repetition/expected-workload Wiki](https://github.com/open-spaced-repetition/expected-workload/wiki/Dynamic-Programming‐based-Workload-Estimator)
